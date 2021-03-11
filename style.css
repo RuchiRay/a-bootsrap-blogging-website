@@ -1,0 +1,19 @@
+.carimg{
+    height: 500px;
+    object-fit: cover;
+   
+}
+#first{
+    object-position: 20% 37%;
+}
+#second{
+    object-position: 20% 27%;
+}
+#third{
+    object-position: 20% 30%;
+}
+.featsize{
+    width: 500px;
+    height: 500px;
+}
+
